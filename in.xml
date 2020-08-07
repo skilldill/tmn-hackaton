@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<customers>
+   <customer>
+      <name>John Smith</name>
+      <address>123 Oak St.</address>
+      <state>WA</state>
+      <phone>(206) 123-4567</phone>
+   </customer>
+   <customer>
+      <name>Zack Zwyker</name>
+      <address>368 Elm St.</address>
+      <state>WA</state>
+      <phone>(206) 423-4537</phone>
+   </customer>
+</customers>
